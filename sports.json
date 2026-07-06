@@ -1,0 +1,27 @@
+[
+  {
+    "name": "الحدث",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg",
+    "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
+  },
+  {
+    "name": "سكاي نيوز",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sky_News_Arabia_Logo.png",
+    "url": "https://stream.skynewsarabia.com/ott/ott.m3u8"
+  },
+  {
+    "name": "سكاي نيوز مكرر",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSO4fdY-TI4eNdEs3nIlc-vKAREfp6ih8v5Sp2iDT8LsGiGXxcSHKxZFDz96RC4QOOEbJI7ahFJww34yg7jJ0L0IVlOoNEnMwqjmcB-kaBTPuMGwn07ONCq1a4VUZOAy_kjP9sK4Qi5YY/s1600/Al+Arabiya.jpg",
+    "url": "https://stream.skynewsarabia.com/ott/ott.m3u8"
+  },
+  {
+    "name": "تيست1",
+    "logo": "https://i.postimg.cc/GmyGnDKn/2022-04-04-02-45-33-IMG-2590.jpg",
+    "url": "https://stream.skynewsarabia.com/ott/ott.m3u8"
+  },
+  {
+    "name": "سوريا اليوم",
+    "logo": "https://i.postimg.cc/gcMKy2R0/Abd-Al-Baset-Al-Sarout.jpg",
+    "url": "https://stream.skynewsarabia.com/ott/ott.m3u8"
+  }
+]
